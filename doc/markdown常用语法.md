@@ -50,6 +50,10 @@
 [链接](https://github.com/ChHerman)
 [行内链接][https://github.com/ChHerman]
 ![图片](图片url)
+[链接本项目里的URL](./doc/doc.md)
+[链接本项目里的URL](/doc/doc.md)
+
+
 ```
 [我的GitHub](https://github.com/ChHerman)
 
@@ -62,6 +66,14 @@
 表头|条目一|条目二
 :---:|:----:|:---:
 项目|项目一|项目二
+## 锚点
+```
+[回到顶部](##标题)
+```
+## 文字高亮
+```
+`高亮`
+```
 ## 特殊符号
 ```
 特殊符号显示需在前面加\转义
