@@ -6,3 +6,6 @@
 ## 抽象工厂模式
 * https://cloud.tencent.com/developer/article/1394271  
 * https://my.oschina.net/xinxingegeya/blog/1790817
+## 观察者模式
+1. 定义
+> 观察者模式定义了一系列对象之间的一对多关系。当一个对象改变状态，其他依赖观察者都会收到通知。
