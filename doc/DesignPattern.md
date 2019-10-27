@@ -1,3 +1,9 @@
+## 策略模式
+1. 定义
+
+2. 博客
+> https://www.cnblogs.com/adamjwh/p/11011095.html
+> https://blog.csdn.net/tugangkai/article/details/88074288
 ## 观察者模式
 1. 定义
 > 观察者模式定义了一系列对象之间的一对多关系。当一个对象改变状态，其他依赖观察者都会收到通知。
