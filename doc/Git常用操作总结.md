@@ -18,6 +18,10 @@ git remote add origin git@github.com:ChHerman/learngit.git
 ```
 git push -f
 ```
+## 本地代码与远程仓库不一致
+1. git pull origin
+2. git merge origin master
+3. git push origin
 
 ## Git常用命令
 git config --global user.name "Your Name" 设置名称  
