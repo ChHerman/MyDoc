@@ -121,20 +121,26 @@
   * 折半查找
   * 插值查找
   * 斐波那契查找
+  * 博客：https://blog.csdn.net/jinyan1111/article/details/79916455
 3. 线性索引查找
   * 稠密索引
   * 分块索引
   * 倒排索引
 4. 二叉排序树
 5. 平衡二叉树（AVL树）
+  * 红黑树
+  * 博客：https://www.jianshu.com/p/e136ec79235c
 6. 多路查找树（B树）
   * 2-3树
   * 2-3-4树
   * B树
+  * 博客：https://www.jianshu.com/p/a858bb15cbf0
   ```
   B树是一种平衡的多路查找树
   ```
   * B+树
+  * 博客：https://blog.csdn.net/qq_26222859/article/details/80631121
+
 7. 散列表查找（哈希表）
   * 直接定址法
   * 数字分析法
@@ -150,9 +156,16 @@
 ## 排序
 1. 冒泡排序
 2. 简单选择排序
+  * 博客：https://www.jianshu.com/p/3194c9b47e91
 3. 直接插入排序
+  * 博客：https://www.jianshu.com/p/7cf0656e76dd
 4. 希尔排序
+  * 博客：https://www.jianshu.com/p/40dcc3b83ddc
 5. 堆排序
+  * 博客：https://www.jianshu.com/p/0d383d294a80
 6. 归并排序
+  * 博客：https://blog.csdn.net/qq_40907279/article/details/81607634
 7. 快速排序
-
+  * 博客：http://www.sohu.com/a/246785807_684445
+## 数据结构框架图
+![图片](./pic/sjjgkjt.jpg)

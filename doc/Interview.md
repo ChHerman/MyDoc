@@ -1,37 +1,37 @@
-1¡¢Éè¼ÆÄ£Ê½¡Ì
-  * ×°ÊÎÕß¡¢Ä£°å·½·¨¡¢²ßÂÔ¡¢¹¤³§¡¢×´Ì¬
-2¡¢Êı¾İ½á¹¹
-3¡¢Ëã·¨
-4¡¢¼¯ºÏÀà
-  * ArrayList£ºÄÚ²¿Êı¾İ½á¹¹£¬Êı×éÀ©Èİ»úÖÆ
-  * LinkedList£ºÄÚ²¿Êı¾İ½á¹¹£¬ÎªÊ²Ã´Ê¹ÓÃË«ÏòÁ´±í
-  * HashMap£ºÄÚ²¿Êı¾İ½á¹¹£¬put·½·¨µÄÍêÕûÁ÷³Ì
-  * LinkedHashMap£ºÄÚ²¿Êı¾İ½á¹¹£¬ÈçºÎÊµÏÖÒ»¸öCache
-  * TreeMap£ºÄÚ²¿Êı¾İ½á¹¹£¬Ê±¼ä¸´ÔÓ¶È
-  * CurrentHashMap£ºÄÚ²¿Êı¾İ½á¹¹£¬Java7·Ö¶ÎËø£¬Java8 CAS+Synchronized
-5¡¢JVM
-  * JVMÄÚ´æÄ£ĞÍ
-  * ³£¼ûÀ¬»ø»ØÊÕËã·¨
-6¡¢IO
-7¡¢²¢·¢±à³Ì»ù´¡
-  * Synchronized¹Ø¼ü×ÖÔ­Àí
-  * wait¡¢notify¡¢sleep
-  * °²È«µÄÖÕÖ¹Ïß³ÌÒÔ¼°Ïß³ÌµÄ×´Ì¬×ª»»
-  * ×Ô¶¨ÒåLock
-  * Ïß³Ì³ØÔ­Àí
-8¡¢MySQL
-9¡¢Spring
-10¡¢SpringMVC
-11¡¢MyBatis
-12¡¢SpringBoot
-13¡¢¼ÆËã»úÍøÂç
-14¡¢Redis
-15¡¢Kafka
-16¡¢ElasticSearch
-17¡¢dubbo
-18¡¢Java»ù´¡
-  * ×Ô¶¯²ğ×°ÏäÔ­Àí
-  * String¡¢StringBufferºÍStringBuilder
+1. è®¾è®¡æ¨¡å¼âˆš
+  * è£…é¥°è€…ã€æ¨¡æ¿æ–¹æ³•ã€ç­–ç•¥ã€å·¥å‚ã€çŠ¶æ€
+2. [æ•°æ®ç»“æ„](./Algorithms.md)
+3. ç®—æ³•
+4. é›†åˆç±»
+  * ArrayListï¼šå†…éƒ¨æ•°æ®ç»“æ„ï¼Œæ•°ç»„æ‰©å®¹æœºåˆ¶
+  * LinkedListï¼šå†…éƒ¨æ•°æ®ç»“æ„ï¼Œä¸ºä»€ä¹ˆä½¿ç”¨åŒå‘é“¾è¡¨
+  * HashMapï¼šå†…éƒ¨æ•°æ®ç»“æ„ï¼Œputæ–¹æ³•çš„å®Œæ•´æµç¨‹
+  * LinkedHashMapï¼šå†…éƒ¨æ•°æ®ç»“æ„ï¼Œå¦‚ä½•å®ç°ä¸€ä¸ªCache
+  * TreeMapï¼šå†…éƒ¨æ•°æ®ç»“æ„ï¼Œæ—¶é—´å¤æ‚åº¦
+  * CurrentHashMapï¼šå†…éƒ¨æ•°æ®ç»“æ„ï¼ŒJava7åˆ†æ®µé”ï¼ŒJava8 CAS+Synchronized
+5. JVM
+  * JVMå†…å­˜æ¨¡å‹
+  * å¸¸è§åƒåœ¾å›æ”¶ç®—æ³•
+6. IO
+7. å¹¶å‘ç¼–ç¨‹åŸºç¡€
+  * Synchronizedå…³é”®å­—åŸç†
+  * waitã€notifyã€sleep
+  * å®‰å…¨çš„ç»ˆæ­¢çº¿ç¨‹ä»¥åŠçº¿ç¨‹çš„çŠ¶æ€è½¬æ¢
+  * è‡ªå®šä¹‰Lock
+  * çº¿ç¨‹æ± åŸç†
+8. MySQL
+9. Spring
+10. SpringMVC
+11. MyBatis
+12. SpringBoot
+13. è®¡ç®—æœºç½‘ç»œ
+14. Redis
+15. Kafka
+16. ElasticSearch
+17. dubbo
+18. JavaåŸºç¡€
+  * è‡ªåŠ¨æ‹†è£…ç®±åŸç†
+  * Stringã€StringBufferå’ŒStringBuilder
   * Throwable
-  * ReaderºÍStream
+  * Readerå’ŒStream
   * NIO
