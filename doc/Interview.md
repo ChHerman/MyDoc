@@ -1,0 +1,37 @@
+1、设计模式√
+  * 装饰者、模板方法、策略、工厂、状态
+2、数据结构
+3、算法
+4、集合类
+  * ArrayList：内部数据结构，数组扩容机制
+  * LinkedList：内部数据结构，为什么使用双向链表
+  * HashMap：内部数据结构，put方法的完整流程
+  * LinkedHashMap：内部数据结构，如何实现一个Cache
+  * TreeMap：内部数据结构，时间复杂度
+  * CurrentHashMap：内部数据结构，Java7分段锁，Java8 CAS+Synchronized
+5、JVM
+  * JVM内存模型
+  * 常见垃圾回收算法
+6、IO
+7、并发编程基础
+  * Synchronized关键字原理
+  * wait、notify、sleep
+  * 安全的终止线程以及线程的状态转换
+  * 自定义Lock
+  * 线程池原理
+8、MySQL
+9、Spring
+10、SpringMVC
+11、MyBatis
+12、SpringBoot
+13、计算机网络
+14、Redis
+15、Kafka
+16、ElasticSearch
+17、dubbo
+18、Java基础
+  * 自动拆装箱原理
+  * String、StringBuffer和StringBuilder
+  * Throwable
+  * Reader和Stream
+  * NIO
