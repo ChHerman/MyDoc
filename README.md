@@ -4,4 +4,4 @@ Java后端知识点速查手册
 2. [Markdown常用语法](./doc/Markdown常用语法.md)
 3. [设计模式](./doc/DesignPattern.md)
 4. [数据结构与算法](./doc/数据结构与算法.md)
-5. [Java集合](./Java集合.md)
+5. [Java集合](./doc/Java集合.md)
