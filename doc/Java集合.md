@@ -2,3 +2,43 @@
 ## 框架总体架构图
 ![Collection](./pic/Collection.png)
 ![Map](./pic/Map.png)
+![BigCollection](./pic/BigCollection.jpg)
+## 博客
+1. https://blog.csdn.net/feiyanaffection/article/details/81394745
+2. https://www.cnblogs.com/chenglc/p/8073049.html
+## Collection
+### List
+1. LinkedList
+  - https://blog.csdn.net/qedgbmwyz/article/details/80108618
+2. ArrayList
+  - https://blog.csdn.net/sihai12345/article/details/79382649
+3. Vector
+  - https://blog.csdn.net/qq_38293564/article/details/80665281
+  - http://baijiahao.baidu.com/s?id=1638844080997170869&wfr=spider&for=pc
+  - Stack
+	- https://www.jianshu.com/p/01192de8c21a
+### Set
+1. HashSet
+  - https://blog.csdn.net/NGUhuang/article/details/80562104
+  - LinkedHashSet
+	- https://www.cnblogs.com/tong-yuan/p/LinkedHashSet.html
+2. TreeSet
+  - https://blog.csdn.net/qq_36441169/article/details/80835438
+  - https://www.cnblogs.com/skywang12345/p/3311268.html
+## Map
+1. HashTable(废弃)
+2. HashMap
+  - https://blog.csdn.net/qq_41786692/article/details/79685838
+  - https://www.cnblogs.com/winterfells/p/8876888.html
+  - https://segmentfault.com/a/1190000015213253
+  - LinkedHashMap
+	- https://segmentfault.com/a/1190000012964859
+  - WeakHashMap
+  - ConcurrentHashMap
+3. TreeMap
+  - https://www.cnblogs.com/qlky/p/7361877.html
+  - https://www.cnblogs.com/warehouse/p/9346757.html
+4. IdentifyHashMap
+## 其他
+### fail-fast机制
+  - https://blog.csdn.net/zymx14/article/details/78394464
