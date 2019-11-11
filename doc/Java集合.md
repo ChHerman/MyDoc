@@ -9,8 +9,10 @@
 ## Collection
 ### List
 1. LinkedList
+  - 双向链表
   - https://blog.csdn.net/qedgbmwyz/article/details/80108618
 2. ArrayList
+  - 默认的初始化长度是10，底层是通过数组对象实现。扩容1.5倍。
   - https://blog.csdn.net/sihai12345/article/details/79382649
 3. Vector
   - https://blog.csdn.net/qq_38293564/article/details/80665281
