@@ -33,6 +33,8 @@
   - https://blog.csdn.net/qq_41786692/article/details/79685838
   - https://www.cnblogs.com/winterfells/p/8876888.html
   - https://segmentfault.com/a/1190000015213253
+  - https://www.jianshu.com/p/4aa3bb16f36c
+  - https://blog.csdn.net/u010386612/article/details/80302777
   - LinkedHashMap
 	- https://segmentfault.com/a/1190000012964859
   - WeakHashMap
