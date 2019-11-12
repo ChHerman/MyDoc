@@ -30,19 +30,21 @@
 ## Map
 1. HashTable(废弃)
 2. HashMap
-  - https://blog.csdn.net/qq_41786692/article/details/79685838
+  - 链地址法解决哈希冲突，键值都允许null值。链表长度到8时转换为红黑树。初始化容量16，2倍扩容。默认负载因子0.75
   - https://www.cnblogs.com/winterfells/p/8876888.html
   - https://segmentfault.com/a/1190000015213253
   - https://www.jianshu.com/p/4aa3bb16f36c
   - https://blog.csdn.net/u010386612/article/details/80302777
 3. LinkedHashMap
-	- https://segmentfault.com/a/1190000012964859
+  - https://segmentfault.com/a/1190000012964859
 4. WeakHashMap
 5. ConcurrentHashMap
+  - cnblogs.com/zerotomax/p/8687425.html
 6. TreeMap
   - https://www.cnblogs.com/qlky/p/7361877.html
   - https://www.cnblogs.com/warehouse/p/9346757.html
-7. IdentifyHashMap
+  - https://www.jianshu.com/p/07cceede7b03
+7. IdentityHashMap
 ## Collections
 ## Arrays
 ## 其他
