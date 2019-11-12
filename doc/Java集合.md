@@ -17,14 +17,14 @@
 3. Vector
   - https://blog.csdn.net/qq_38293564/article/details/80665281
   - http://baijiahao.baidu.com/s?id=1638844080997170869&wfr=spider&for=pc
-  - Stack
+4. Stack
 	- https://www.jianshu.com/p/01192de8c21a
 ### Set
 1. HashSet
   - https://blog.csdn.net/NGUhuang/article/details/80562104
-  - LinkedHashSet
+2. LinkedHashSet
 	- https://www.cnblogs.com/tong-yuan/p/LinkedHashSet.html
-2. TreeSet
+3. TreeSet
   - https://blog.csdn.net/qq_36441169/article/details/80835438
   - https://www.cnblogs.com/skywang12345/p/3311268.html
 ## Map
@@ -35,14 +35,16 @@
   - https://segmentfault.com/a/1190000015213253
   - https://www.jianshu.com/p/4aa3bb16f36c
   - https://blog.csdn.net/u010386612/article/details/80302777
-  - LinkedHashMap
+3. LinkedHashMap
 	- https://segmentfault.com/a/1190000012964859
-  - WeakHashMap
-  - ConcurrentHashMap
-3. TreeMap
+4. WeakHashMap
+5. ConcurrentHashMap
+6. TreeMap
   - https://www.cnblogs.com/qlky/p/7361877.html
   - https://www.cnblogs.com/warehouse/p/9346757.html
-4. IdentifyHashMap
+7. IdentifyHashMap
+## Collections
+## Arrays
 ## 其他
 ### fail-fast机制
   - https://blog.csdn.net/zymx14/article/details/78394464
