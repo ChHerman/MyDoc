@@ -50,3 +50,12 @@
 ## 其他
 ### fail-fast机制
   - https://blog.csdn.net/zymx14/article/details/78394464
+  - https://juejin.im/post/5b7cc7ce51882542b45dd220
+### Comparable和Comparator
+  - https://www.cnblogs.com/skywang12345/p/3324788.html
+### poll()方法和remove()方法区别？
+  - poll() 和 remove() 都是从队列中取出一个元素，但是 poll() 在获取元素失败的时候会返回空，但是 remove() 失败的时候会抛出异常。
+### Arrays.deepToString()与Arrays.toString()的区别
+  - Arrays.deepToString()主要用于数组中还有数组的情况，而Arrays.toString()则相反，对于Arrays.toString()而言，当数组中有数组时，不会打印出数组中的内容，只会以地址的形式打印出来。
+### Collections.sort()和Arrays.sort()排序算法选择
+  - https://blog.csdn.net/TimHeath/article/details/68930482
