@@ -24,6 +24,8 @@ git push -f
 3. git push origin
 
 ## Git常用命令
+### Git追加提交命令
+- git commit --amend --no-edit
 git config --global user.name "Your Name" 设置名称  
 git config --global user.email "email@example.com" 设置邮箱  
 git init 初始化Git仓库  
