@@ -18,6 +18,9 @@
   * 安全的终止线程以及线程的状态转换
   * 自定义Lock
   * 线程池原理
+  * https://segmentfault.com/a/1190000015239322
+  * volatile
+  * https://www.jianshu.com/p/b05e4da39de9
 8. MySQL
 9. Spring
 10. SpringMVC
